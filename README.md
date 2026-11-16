@@ -1,5 +1,6 @@
-<img width="1920" height="1080" alt="Screenshot (349)" src="https://github.com/user-attachments/assets/d30214b3-2d2b-4c66-9f1e-5fcffa35c977" />
-<img width="1920" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/b37cb3f4-0483-450e-be72-6eb6e122e456" />
+<img width="1920" height="1080" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/36c6a104-9311-49bb-8eb4-69443275ac98" />
+<img width="1920" height="1080" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/e91dd84a-b342-4e3f-9f4d-478fe5ab16a2" />
+<img width="1920" height="1080" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/bd47ab7e-42cb-4627-a601-1f091133276f" />
 
 # Movie App 🎬
 
