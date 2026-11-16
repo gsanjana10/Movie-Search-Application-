@@ -34,7 +34,7 @@ Welcome to the Movie App! This web application is designed to provide all the in
 - **Tools:** Visual Studio Code, Git, GitHub
 
 
- ## Author 
+ ## Author ⭐
  **Sanjana Gampala**
 
 - GitHub: https://github.com/gsanjana10
