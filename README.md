@@ -1,3 +1,4 @@
+
 # Movie App 🎬
 
 Welcome to the Movie App! This web application is designed to provide all the information you need about movies. Whether you're looking for details about a specific film or exploring different movie options, this application makes it easy to discover and explore movies.
