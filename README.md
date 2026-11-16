@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (349)" src="https://github.com/user-attachments/assets/d30214b3-2d2b-4c66-9f1e-5fcffa35c977" />
+<img width="1920" height="1080" alt="Screenshot (270)" src="https://github.com/user-attachments/assets/b37cb3f4-0483-450e-be72-6eb6e122e456" />
 
 # Movie App 🎬
 
