@@ -26,12 +26,24 @@ Welcome to the Movie App! This web application is designed to provide all the in
 
 ✨ **Valid HTML and CSS:** The application follows standard HTML and CSS practices to provide a consistent and reliable user experience.
 
-## 🛠️ Skills & Technologies
+-------
 
-- **Frontend Development:** HTML5, CSS3, JavaScript
-- **API Integration:** OMDb API, REST API
-- **Web Development:** Responsive Web Design, DOM Manipulation
-- **Tools:** Visual Studio Code, Git, GitHub
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- OMDb API
+- REST API
+
+## ⚙️ API Integration
+
+This application uses the OMDb API to fetch movie information dynamically, including movie titles, posters, release dates, genres, ratings, plot summaries, and cast details.
+
+API Documentation: https://www.omdbapi.com/
+
+------
 
 
  ## Author ⭐
