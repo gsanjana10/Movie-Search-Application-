@@ -45,6 +45,9 @@ API Documentation: https://www.omdbapi.com/
 
 ------
 
+## Live Demo ⭐
+
+https://glittery-crostata-94ff7d.netlify.app/
 
  ## Author ⭐
  **Sanjana Gampala**
